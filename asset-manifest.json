@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react_timeTable/static/css/main.a9789c63.css",
-    "main.js": "/react_timeTable/static/js/main.1a242311.js",
+    "main.css": "/react_timeTable/static/css/main.7c3d3973.css",
+    "main.js": "/react_timeTable/static/js/main.41e72498.js",
     "index.html": "/react_timeTable/index.html",
-    "main.a9789c63.css.map": "/react_timeTable/static/css/main.a9789c63.css.map",
-    "main.1a242311.js.map": "/react_timeTable/static/js/main.1a242311.js.map"
+    "main.7c3d3973.css.map": "/react_timeTable/static/css/main.7c3d3973.css.map",
+    "main.41e72498.js.map": "/react_timeTable/static/js/main.41e72498.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9789c63.css",
-    "static/js/main.1a242311.js"
+    "static/css/main.7c3d3973.css",
+    "static/js/main.41e72498.js"
   ]
 }
