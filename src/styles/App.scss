@@ -1,0 +1,36 @@
+.app{
+  width: 750px;
+  height: 100%;
+  background-color: #666;
+  margin: 20px auto;
+  padding: 50px 20px 20px;
+  border-radius: 20px;
+  box-sizing: border-box;
+
+  .appDate{
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 0 auto;
+    text-align: center;
+
+    h1{
+      padding-top: 20px;
+    }
+  }
+  .one{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 15px;
+    button{
+      width: 45px;
+      height: 45px;
+      background-color: #222;
+      border-radius: 50%;
+      text-align: center;
+      margin: 0 auto;
+      cursor: pointer;
+    }
+  }
+}
